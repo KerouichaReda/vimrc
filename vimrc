@@ -133,3 +133,5 @@ set shiftwidth=4
 set expandtab
 set number
 set autoindent
+syntax enable
+colorscheme monokai
